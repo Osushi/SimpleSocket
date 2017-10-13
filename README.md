@@ -1,5 +1,5 @@
 # SimpleSocket
-[![Packagist](https://img.shields.io/packagist/v/symfony/symfony.svg)]()
+[![Packagist](https://img.shields.io/packagist/v/symfony/symfony.svg)](https://packagist.org/packages/osushi/simple-socket)
 
 Functions
 ---
