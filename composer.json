@@ -1,0 +1,26 @@
+{
+    "name": "Osushi/SimpleSocket",
+    "description": "This library can create socket client simply. It is written by php native socket functions.",
+    "keywords": ["socket", "client", "tcp"],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/Osushi/SimpleSocket",
+    "authors": [
+        {
+            "name": "Osushi",
+            "homepage": "https://github.com/Osushi",
+            "role": "Author"
+        }
+    ],
+    "require": {
+        "php" : ">=7.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SimpleSocket\\": "src/"
+        }
+    }
+}
