@@ -1,5 +1,5 @@
 {
-    "name": "Osushi/SimpleSocket",
+    "name": "osushi/simple-socket",
     "description": "This library can create socket client simply. It is written by php native socket functions.",
     "keywords": ["socket", "client", "tcp"],
     "type": "library",
