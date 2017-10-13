@@ -12,7 +12,7 @@ Requirements
 Examples
 ---
 
-See: https://github.com/Osushi/SimpleSocket/tree/master/samples/Connector.php
+See: https://github.com/Osushi/SimpleSocket/blob/master/sample/Connector.php
 
 ```
 $connector = new \SimpleSocket\Connector();
