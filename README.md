@@ -9,6 +9,13 @@ Requirements
 ---
 - PHP >= 7.0.*
 
+Usage
+---
+
+```
+composer require osushi/simple-socket
+```
+
 Examples
 ---
 
